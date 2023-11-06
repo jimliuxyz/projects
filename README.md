@@ -1,17 +1,17 @@
-<!-- TOC depthfrom:1 depthto:1 orderedlist:true -->
+<!-- TOC depthfrom:1 depthto:1 orderedlist:false -->
 
-- [1. Android-MVVM-Taipei-Travel](#1-android-mvvm-taipei-travel)
-- [2. Flutter-course_system](#2-flutter-course_system)
-- [3. Blockhain-NFT-Wallet-AndroidKotlin-iOsSwift-nodejs](#3-blockhain-nft-wallet-androidkotlin-iosswift-nodejs)
-- [4. Vue-D3-python](#4-vue-d3-python)
-- [5. Android-TsNode](#5-android-tsnode)
-- [6. Android-MapRunner](#6-android-maprunner)
-- [7. Angular-C#-Finzview](#7-angular-c-finzview)
-- [8. Angular-Ionic-LangStar](#8-angular-ionic-langstar)
-- [9. VSCode Extensions - WOVO](#9-vscode-extensions---wovo)
-- [10. Chrome Extensions - StockInfoSearch](#10-chrome-extensions---stockinfosearch)
-- [11. JavaSE-Aechart2016](#11-javase-aechart2016)
-- [12. Android-Google Associate Android DeveloperAAD](#12-android-google-associate-android-developeraad)
+- [Android-MVVM-Taipei-Travel](#android-mvvm-taipei-travel)
+- [Flutter-course_system](#flutter-course_system)
+- [Blockhain-NFT-Wallet-AndroidKotlin-iOsSwift-nodejs](#blockhain-nft-wallet-androidkotlin-iosswift-nodejs)
+- [Vue-D3-python](#vue-d3-python)
+- [Android-TsNode](#android-tsnode)
+- [Android-MapRunner](#android-maprunner)
+- [Angular-C#-Finzview](#angular-c-finzview)
+- [Angular-Ionic-Firebase-LangStar](#angular-ionic-firebase-langstar)
+- [VSCode Extensions - WOVO](#vscode-extensions---wovo)
+- [Chrome Extensions - StockInfoSearch](#chrome-extensions---stockinfosearch)
+- [JavaSE-Aechart2016](#javase-aechart2016)
+- [Android-Google Associate Android DeveloperAAD](#android-google-associate-android-developeraad)
 
 <!-- /TOC -->
 
@@ -156,7 +156,7 @@ Github
 <img src="images/Finzview/finzview_settings.gif" alt="image" width="300" height="auto">
 
 
-# `Angular-Ionic-LangStar`
+# `Angular-Ionic-Firebase-LangStar`
 語言單字學習 類似單字卡的分享平台
 - 以Ionic(Angular)開發的Hybrid App
 - 後台用Firebase 包含social login
